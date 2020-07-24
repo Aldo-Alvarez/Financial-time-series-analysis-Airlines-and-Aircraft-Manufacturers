@@ -4,7 +4,9 @@ As defined in Investopedia A time series is a sequence of numerical data points 
 We will through the following steps
 
 1. Get access to the data and understand it
+
   -Load data using pandas_datareader
+  
   -Understand data
 2. Plot time series data
   -Plot the stock price data
