@@ -8,27 +8,49 @@ We will through the following steps
   -Load data using pandas_datareader
   
   -Understand data
+  
 2. Plot time series data
+
   -Plot the stock price data
+  
   -Plot subplot to price and volumne traded
+  
   -Normalize the time series to better compare price change
+  
 3. Returns Calculation
+
   -Calculate simple return
+  
   -Calculate and plot daily returns
+  
   -Calculate the Compound Annual Growth Rate(CAGR)
+  
 4. Volatility calculation
+
   -Calculate annualized volatility
+  
   -Calculate and plot the rolling volatility
+  
   -Relationship between Vol and returns
+  
 5. Correlation calculation
+
   -Generate pair-wise plot and analyse
+  
   -Generate correlation metrics
+  
 6. Returns distribution and analysis
+
   -Plot the return distribution
+  
   -Normality test
+  
 7. Monthly plot
+
   -Comment on seasonality
+  
 8. Digging deep
+
   -Perform the drawdown analysis
   
 We're going to use the market information from some United States Airlines, European Airlines and Aircraft manufacturers. This is the list of company names and their stock ticker symbols:
